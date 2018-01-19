@@ -46,9 +46,17 @@ This course is intended as a specialized course on models and techniques for dec
 	- Behavioural aspects of human decision making - how real people think about risk, games, etc.
 	- Reconciling behavioural findings with formal models
 
-## [](#requisites) Pre-requisites
+## [](#requisites) Prerequisites
 This is a **second course** at the postgraduate level.
 
-Prior exposure to mathematical models; Multivariate Calculus, Probability (expectation, conditional probability) & Stochastic Processes, principles of optimization (linear programming, gradient decent)
+The recommended requirements are as follows:
+*	Proficiency in Python, familiarity with C/C++
+	Class assignments will be in Python (and may use [Numpy](http://cs231n.github.io/python-numpy-tutorial/)
+*	Mathematics:
+	- [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+	- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+	- [Probability](https://projects.iq.harvard.edu/stat110/youtube)
+	- [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+	- Optimization (linear programming, gradient descent)
 
 
