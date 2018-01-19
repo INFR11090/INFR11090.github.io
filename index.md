@@ -1,6 +1,6 @@
-**Lecturer**: <a href="http://homepages.inf.ed.ac.uk/sramamoo">Dr. Subramanian Ramamoorthy</a>
+**Lecturer**: [Dr. Subramanian Ramamoorthy](http://homepages.inf.ed.ac.uk/sramamoo)
 
-**Teaching Assistant** : <a href="https://www.edinburgh-robotics.org/students/emmanuel-kahembwe">Emmanuel Kahembwe</a> | **Demonstrator** : <a href="https://www.inf.ed.ac.uk/people/students/Yordan_Hristov.html">Yordan Hristov</a>
+**Teaching Assistant** : [Emmanuel Kahembwe](https://www.edinburgh-robotics.org/students/emmanuel-kahembwe) | **Demonstrator** : [Yordan Hristov](https://www.inf.ed.ac.uk/people/students/Yordan_Hristov.html)
 <dl>
 <dt>Lecture time and locations</dt>
 <dd>11:10-12pm</dd>
@@ -51,7 +51,7 @@ This is a **second course** at the postgraduate level.
 
 The recommended requirements are as follows:
 *	Proficiency in Python, familiarity with C/C++
-	Class assignments will be in Python (and may use [Numpy](http://cs231n.github.io/python-numpy-tutorial/)
+	Class assignments will be in Python (and may use [Numpy](http://cs231n.github.io/python-numpy-tutorial/))
 *	Mathematics:
 	- [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 	- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
