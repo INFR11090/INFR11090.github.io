@@ -1,1 +1,1 @@
-#Decision Making in Reasoning and Autonomous Agents
+title: [INFR11090: Decision Making in Reasoning and Autonomous Agents]
