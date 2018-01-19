@@ -1,6 +1,6 @@
 <dl>
 <dt>Lecturer</dt>
-<dd><a href="http://homepages.inf.ed.ac.uk/sramamoo"/>Dr Subramanian Ramamoorthy</a></dd>
+<dd><a href="http://homepages.inf.ed.ac.uk/sramamoo">Dr Subramanian Ramamoorthy</a></dd>
 <dt>Teaching Assistant</dt>
 <dd><a href="https://www.edinburgh-robotics.org/students/emmanuel-kahembwe">Emmanuel Kahembwe</a></dd>
 <dt>Demonstrator</dt>
@@ -13,7 +13,7 @@
 <dd>Semester: 2nd</dd>
 <dd>Year: 2018</dd>
 <dd>Course Level: Postgraduate</dd>
-<dd>Course Details: <a href="http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm">Course Description<a> | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr">Course Page</a></dd>
+<dd>Course Details: <a href="http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm">Course Description</a> | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr">Course Page</a></dd>
 </dl>
 
 
