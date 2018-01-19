@@ -23,32 +23,33 @@ The content of this course has connections to other courses within our existing 
 
 
 ## [](#themes) Themes and Objectives
+This course is intended as a specialized course on models and techniques for decision making in robots. The emphasis is on understanding how we can endow robots with the capacity to autonomously make decisions about how to interact with a dynamic environment. As such, we will cover the following major themes:
+
 *	Introduction
-	*	- Problems involving interaction: Strategically rich human-robot interaction; Teams of autonomous agents; Market design
-	*	- Survey of existing models of interaction: from psychology, cognitive science and machine learning
+	- Problems involving interaction: Strategically rich human-robot interaction; Teams of autonomous agents; Market design
+	- Survey of existing models of interaction: from psychology, cognitive science and machine learning
 *	Decision Theory:
-	*	- The utility maximization framework of decision theory
-	*	- Bandit problems, online learning and related models (e.g., matching problems)
-	*	- Markov Decision Processes and variants
-	
+	- The utility maximization framework of decision theory
+	- Bandit problems, online learning and related models (e.g., matching problems)
+	- Markov Decision Processes and variants
 *	Interactive Decision Making:
-	*	- Tools and techniques of game theoretic models
-	*	- Game theoretic models with incomplete information; models such as Interactive POMDP
-	*	- Repeated interaction
-	*	- Models of bargaining and negotiation (including the incomplete information case)
-	*	- Strategic learning in games
+	- Tools and techniques of game theoretic models
+	- Game theoretic models with incomplete information; models such as Interactive POMDP
+	- Repeated interaction
+	- Models of bargaining and negotiation (including the incomplete information case)
+	- Strategic learning in games
 	
 *	Mechanism Design and Related Topics in Decentralized Systems:
-	*	- Introduction to mechanism design and social choice
-	*	- Learning and mechanism design
-	*	- Graphical games, coordination games and social learning models
-	*	- Special topics: models of asymmetric information and privacy
+	- Introduction to mechanism design and social choice
+	- Learning and mechanism design
+	- Graphical games, coordination games and social learning models
+	- Special topics: models of asymmetric information and privacy
 	
 *	Human Decision Making and Behavioural Issues:
-	*	- Behavioural aspects of human decision making - how real people think about risk, games, etc.
-	*	- Reconciling behavioural findings with formal models
+	- Behavioural aspects of human decision making - how real people think about risk, games, etc.
+	- Reconciling behavioural findings with formal models
 
-## [](#requisites) Background and Pre-Requisites
+## [](#requisites) Pre-requisites
 This is a **second course** at the postgraduate level.
 
 Prior exposure to mathematical models; Multivariate Calculus, Probability (expectation, conditional probability) & Stochastic Processes, principles of optimization (linear programming, gradient decent)
