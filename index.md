@@ -1,4 +1,5 @@
 **Lecturer**: <a href="http://homepages.inf.ed.ac.uk/sramamoo">Dr. Subramanian Ramamoorthy</a>
+
 **Teaching Assistant** : <a href="https://www.edinburgh-robotics.org/students/emmanuel-kahembwe">Emmanuel Kahembwe</a> | **Demonstrator** : <a href="https://www.inf.ed.ac.uk/people/students/Yordan_Hristov.html">Yordan Hristov</a>
 <dl>
 <dt>Lecture time and locations</dt>
