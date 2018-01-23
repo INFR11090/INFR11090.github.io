@@ -7,47 +7,42 @@
 <dd>Tuesdays: Room LG.08, David Hume Tower</dd>
 <dd>Fridays: Room 5.3, Lister Learning and Teaching Centre </dd>
 <dt>Course Details</dt>
-<dd><a href="http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm">Course Specification</a> | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr">Course Page</a></dd>
+<dd><a href="http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm">Course Specification</a> | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr">Course Page</a>  | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html">Slides</a>  </dd>
 </dl>
 
-# [](#description) Course Description
+# [](#summary) Course Summary
 
-This course is intended as a specialized course on models and techniques for decision making in autonomous agents, such as intelligent robots, that must function in rich interactive settings involving environments with other agents and people.
+This course is intended as a specialized course on models and techniques for decision making in autonomous robots that must function in rich interactive settings involving interactions with a dynamic environment, and other agents (e.g., people). In the first part of the course, students will learn about formal models of decision making, and computational methods for automating these decisions within robots. In the second part of the course, we will consider issues arising in practical deployments of such autonomous robots, including problems of achieving safety, explainability and trust. Students will be exposed to current thinking on models and algorithmic methods for achieving these attributes in autonomous robots.
 
-This course will cover decision theoretic algorithms, interactive decision making including game theoretic techniques, learning in games and social settings, as well as selected topics involving decentralized systems. We will also look at aspects of human decision making, both to ask what people actually do and to consider what agents must do in light of this.
-
-The content of this course has connections to other courses within our existing curriculum, such as Reinforcement Learning and Algorithmic Game Theory. A noteworthy difference is that this course will focus more heavily on issues of modelling - how tasks associated with robotics and autonomous agents could/should be expressed and analysed using the formal language of these models, and also have more coverage of learning and potential connections to mechanisms of (boundedly rational) human decision making. This course will be self contained, discussing salient algorithmic techniques associated with some of the major models being considered. However, we expect this knowledge to be complemented by the more detailed discussion of techniques in the Reinforcement Learning and Algorithmic Game Theory and its Applications. Similarly, students will benefit from prior exposure to robotics at the level of the Robotics:Science and Systems (or some equivalent exposure to autonomous agent design), which provides the perspective necessary to fully appreciate the concerns of this course.
+The content of this course has connections to other courses within our existing curriculum, such as Reinforcement Learning and Algorithmic Game Theory. A noteworthy difference is that RL and AGTA are primarily focussed on broad coverage of algorithmic methods, whereas this course will emphasize issues of modelling, with some focus on problems arising in practical robotics applications.
 
 
-## [](#themes) Themes and Objectives
-This course is intended as a specialized course on models and techniques for decision making in robots. The emphasis is on understanding how we can endow robots with the capacity to autonomously make decisions about how to interact with a dynamic environment. As such, we will cover the following major themes:
+# [](#themes) Course Description
+The course will cover the following major themes, although specific topics could vary from year to year.
 
-*	Introduction
-	- Problems involving interaction: Strategically rich human-robot interaction; Teams of autonomous agents; Market design
-	- Survey of existing models of interaction: from psychology, cognitive science and machine learning
-*	Decision Theory:
-	- The utility maximization framework of decision theory
-	- Bandit problems, online learning and related models (e.g., matching problems)
-	- Markov Decision Processes and variants
-*	Interactive Decision Making:
-	- Tools and techniques of game theoretic models
-	- Game theoretic models with incomplete information; models such as Interactive POMDP
-	- Repeated interaction
-	- Models of bargaining and negotiation (including the incomplete information case)
-	- Strategic learning in games
-	
-*	Mechanism Design and Related Topics in Decentralized Systems:
-	- Introduction to mechanism design and social choice
-	- Learning and mechanism design
-	- Graphical games, coordination games and social learning models
-	- Special topics: models of asymmetric information and privacy
-	
-*	Human Decision Making and Behavioural Issues:
-	- Behavioural aspects of human decision making - how real people think about risk, games, etc.
-	- Reconciling behavioural findings with formal models
+*	Motivation
+	- Problems involving interaction: Strategically rich human-robot interaction; Multi-robot interactions
+	- How have decisions been modelled in different disciplines: probability theory, machine learning, psychology and cognitive science
 
-## [](#requisites) Prerequisites
+*	Mathematics of decisions
+	- The utility maximization framework, Bayesian choice models
+	- Causality, Causal learning
+	- Bandit problems, Markov Decision Processes, and associated analysis methods
+	- Dynamic programming principle, and associated approximation and learning algorithms
+	- Incomplete information, Game theoretic models and solution concepts
+
+*	Computer science of decisions
+	- Representations for planning – tradeoffs in modelling hierarchy, uncertainty, etc.
+	- Safety and trust in autonomous systems
+	- Explainability in AI
+	- Bounded rationality and cognitive biases
+
+Relevant QAA Computing Curriculum Sections: Artificial Intelligence, Intelligent Information Systems Technologies
+
+# [](#requisites) Prerequisites
 This is a **second course** at the postgraduate level.
+
+This course is open to all Informatics students including those on joint degrees. However, students will benefit from prior exposure to robotics at the level of the Robotics: Science and Systems or Intelligent Autonomous Robotics.
 
 The recommended requirements are as follows:
 *	Proficiency in Python, familiarity with C/C++
@@ -55,8 +50,17 @@ The recommended requirements are as follows:
 *	Mathematics:
 	- [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 	- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-	- [Probability](https://projects.iq.harvard.edu/stat110/youtube)
+	- [Probability & Stochastic Processes](https://projects.iq.harvard.edu/stat110/youtube)
 	- [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
-	- Optimization (linear programming, gradient descent)
+	- Principles of Optimization (linear programming, gradient descent)
 
+# [](#reading) Reading List
+
+There is no single textbook for this course. 
+
+The instructor will provide lecture notes/slides, which will be complemented by readings from books and research articles.
+
+Readings indicative of the course content include:
+-	B. Christian, T. Griffiths, Algorithms to Live By, William Collins Press, 2016.
+-	W.B. Powell, Approximate Dynamic Programming, Wiley, 2011.
 
