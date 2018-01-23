@@ -7,7 +7,7 @@
 <dd>Tuesdays: Room LG.08, David Hume Tower</dd>
 <dd>Fridays: Room 5.3, Lister Learning and Teaching Centre </dd>
 <dt>Course Details</dt>
-<dd><a href="http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm">Course Specification</a> | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr">Course Page</a>  | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html">Slides</a>  </dd>
+<dd><a href="http://www.drps.ed.ac.uk/17-18/dpt/cxinfr11090.htm">Course Specification</a> | <a href="http://www.inf.ed.ac.uk/teaching/courses/dmr">Course Page</a>  | <a href="https://infr11090.github.io/notes" >Slide Notes</a>  </dd>
 </dl>
 
 # [](#summary) Course Summary
