@@ -1,6 +1,6 @@
 # [](#notes)Relevant Notes
 
-[Course Slides](http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html)
+[Home](https://infr11090.github.io) | [Course Slides](http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html)
 
 Week 0:
 
