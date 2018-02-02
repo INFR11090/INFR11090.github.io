@@ -63,4 +63,6 @@ The instructor will provide lecture notes/slides, which will be complemented by 
 Readings indicative of the course content include:
 -	B. Christian, T. Griffiths, Algorithms to Live By, William Collins Press, 2016.
 -	W.B. Powell, Approximate Dynamic Programming, Wiley, 2011.
-
+-	I. Gilboa, Theory of Decision under Uncertainty, Cambridge University Press, 2009.
+-	R.D. Luce, H. Raiffa, Games and Decisions, Dover Publications, 1989.
+-	M. Mitzenmacher, E. Upfal, Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis, Cambridge University Press, 2017.
