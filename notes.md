@@ -2,7 +2,7 @@
 
 [Home](https://infr11090.github.io) | [Course Slides](http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html)
 
-These links are *optional* reading, provided in addition to the readings assigned on the official [course web page](http://www.inf.ed.ac.uk/teaching/courses/dmr) and [slide page](http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html).
+The following links are **optional reading** for the highly curious; provided in addition to the readings assigned on the official [course web page](http://www.inf.ed.ac.uk/teaching/courses/dmr) and [slide page](http://www.inf.ed.ac.uk/teaching/courses/dmr/lecturelist.html).
 
 Week 0:
 
@@ -15,7 +15,6 @@ Week 1:
         *   Matlab - [mathworks](https://uk.mathworks.com/help/matlab/math/choose-an-ode-solver.html)
 -   Jan 26: Dynamic Programming:
     - [The Stage Coach Problem](https://www.ime.unicamp.br/~andreani/MS515/capitulo7.pdf)
-    - [Value Iteration](http://fabcol.free.fr/pdf/lectnotes7.pdf)
     - [Markov Rewards and Dynamic Programming (Video)](https://www.youtube.com/watch?v=mNGVkKeMUtc)
     - [Mean First Passage and Recurrence Times (Video)](https://www.youtube.com/watch?v=fa5Bdv_94ZE)
     - [Dynamic Programming in Robotics](http://underactuated.csail.mit.edu/underactuated.html?chapter=10)
