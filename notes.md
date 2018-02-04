@@ -17,5 +17,5 @@ Week 1:
     - [The Stage Coach Problem](https://www.ime.unicamp.br/~andreani/MS515/capitulo7.pdf)
     - [Markov Rewards and Dynamic Programming (Video)](https://www.youtube.com/watch?v=mNGVkKeMUtc)
     - [Mean First Passage and Recurrence Times (Video)](https://www.youtube.com/watch?v=fa5Bdv_94ZE)
-    - [Dynamic Programming in Robotics](http://underactuated.csail.mit.edu/underactuated.html?chapter=10)
+    - [Dynamic Programming in Robotics](http://underactuated.csail.mit.edu/underactuated.html?chapter=dp)
 -   Feb 2: Utility and Decision Theory:
