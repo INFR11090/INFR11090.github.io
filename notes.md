@@ -15,7 +15,9 @@ Week 1:
         *   Matlab - [mathworks](https://uk.mathworks.com/help/matlab/math/choose-an-ode-solver.html)
 -   Jan 26: Dynamic Programming:
     - [The Stage Coach Problem](https://www.ime.unicamp.br/~andreani/MS515/capitulo7.pdf)
+    - [Utility and MDPs (Video)](https://www.youtube.com/watch?v=GevK0-9n24g&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt&index=8) (Lecture 7-10)
     - [Markov Rewards and Dynamic Programming (Video)](https://www.youtube.com/watch?v=mNGVkKeMUtc)
     - [Mean First Passage and Recurrence Times (Video)](https://www.youtube.com/watch?v=fa5Bdv_94ZE)
     - [Dynamic Programming in Robotics](http://underactuated.csail.mit.edu/underactuated.html?chapter=dp)
+
 -   Feb 2: Utility and Decision Theory:
