@@ -46,7 +46,7 @@ This course is open to all Informatics students including those on joint degrees
 
 The recommended requirements are as follows:
 *	Proficiency in Python, familiarity with C/C++
-	* Class assignments will be in Python 3.6 (and will use [Numpy](http://cs231n.github.io/python-numpy-tutorial/), [gym](https://github.com/openai/gym) and [jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46))
+	* Class assignments will be in Python 3.6 (and will use [numpy](http://cs231n.github.io/python-numpy-tutorial/), [gym](https://github.com/openai/gym) and [jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46))
 *	Mathematics:
 	- [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 	- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
