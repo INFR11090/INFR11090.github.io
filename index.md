@@ -46,7 +46,7 @@ This course is open to all Informatics students including those on joint degrees
 
 The recommended requirements are as follows:
 *	Proficiency in Python, familiarity with C/C++
-	* Class assignments will be in Python (and may use [Numpy](http://cs231n.github.io/python-numpy-tutorial/))
+	* Class assignments will be in Python (and will use [Numpy](http://cs231n.github.io/python-numpy-tutorial/))
 *	Mathematics:
 	- [Multivariate Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 	- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
