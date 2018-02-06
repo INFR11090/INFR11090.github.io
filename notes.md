@@ -21,3 +21,7 @@ Week 1:
     - [Dynamic Programming in Robotics](http://underactuated.csail.mit.edu/underactuated.html?chapter=dp)
 
 -   Feb 2: Utility and Decision Theory:
+-   Feb 6: Stochastic system models:
+    - [Reinforcement Learning,  R. Sutton and A. Barto](http://incompleteideas.net/book/bookdraft2018jan1.pdf) Chapter 1-4
+    - [The multi-armed bandit problem (Video)](http://videolectures.net/pcw06_bianchi_mabp/?q=bandit)
+    - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) Chapter 2, 4.2
