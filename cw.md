@@ -12,7 +12,7 @@ This should be completed using the notebook and environment available in the [re
 The Grid-World uses OpenAI Gym, see the [OpenAI GYM Tutorial](https://gym.openai.com/docs/)
 
 
-1. Along with the [online code submission](http://computing.help.inf.ed.ac.uk/practical-submission), submit a printed version of the notebook to ITO.
+1. Along with the [online code submission](http://computing.help.inf.ed.ac.uk/practical-submission), submit a printed version of the notebook.
 2. Remember to set a seed so that your work is reproducible !
 
 #### Requirements
