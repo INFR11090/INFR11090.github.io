@@ -9,7 +9,7 @@ Download [HW Assignment 2](http://www.inf.ed.ac.uk/teaching/courses/dmr/Homework
 ### Question 1 [15 marks]:
 This should be completed using the notebook and environment available in the [repository](https://github.com/INFR11090/CourseWork).
 
-The Grid-World uses OpenAI Gym, see the [OpenAI GYM Tutorial](https://gym.openai.com/docs/)/
+The Grid-World uses OpenAI Gym, see the [OpenAI GYM Tutorial](https://gym.openai.com/docs/)
 
 
 1. Along with the [online code submission](http://computing.help.inf.ed.ac.uk/practical-submission), submit a printed version of the notebook to ITO.
