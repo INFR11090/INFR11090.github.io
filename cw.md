@@ -22,6 +22,7 @@ The Grid-World uses OpenAI Gym, see the [OpenAI GYM Tutorial](https://gym.openai
 - Numpy >= 1.13.3
 - Matplotlib >= 2.1.1
 - Scikit-image >= 0.13.1
+- Jupyter >= 4.4.0
 - (Recommended) JupyterLab >= 0.31.0
 - FFMPEG (for visualisations)
 
