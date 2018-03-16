@@ -25,3 +25,15 @@ Week 1:
     - [Reinforcement Learning,  R. Sutton and A. Barto](http://incompleteideas.net/book/bookdraft2018jan1.pdf) Chapter 1-4
     - [The multi-armed bandit problem (Video)](http://videolectures.net/pcw06_bianchi_mabp/?q=bandit)
     - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) Chapter 2, 4.2
+-   Mar 16: Bounded rationality and behavioural issues:
+    - [The Conjunction Fallacy (Blog)](https://michaelgr.wordpress.com/2007/11/15/cognitive-bias-conjunction-fallacy/)
+    - [Base rate Neglect (Blog)](http://www.dangreller.com/jumping-to-conclusions-base-rate-neglect/)
+    - Prospect Theory
+        - [Prospect Theory (Chapter)](https://www.press.umich.edu/pdf/0472108670-02.pdf)
+        - [Prospect Theory (Blog)](https://kevinbinz.com/2016/10/26/prospect-theory)
+    - Level K
+        - [The 11–20 Money Request Game](http://www.tau.ac.il/~aradayal/moneyrequest.pdf)
+        - [Unraveling in Guessing Games](http://pareto.uab.es/prey/NagelAER97.pdf)
+        - [A Cognitive Hierarchy Model of Games](https://academic.oup.com/qje/article/119/3/861/1938841)
+       
+    
